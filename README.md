@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ALX SE program
-- 🌱 I’m currently learning web development 
+- 🔭 I’m graduted from ALX SE program
+- 🌱 I’m currently Learnning Django
 - 👯 I’m looking to collaborate on Back-end project
 - 📫 How to reach me: ahmedissaten@gmail.com
-- 🤔 I’m looking for help with Back-end devlopment with python
+- 🤔 I’m looking for a job
